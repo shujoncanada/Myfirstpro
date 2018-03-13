@@ -8,5 +8,5 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 	public static void main(String[] args) {
 		//System.setProperty("webdriver.gecko.driver", "./DriverBrowser/geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
-		driver.get("https://www.facebook.com/");
+		driver.get("https://www.samsung.com/");
 		driver.manage().window().maximize();}}
