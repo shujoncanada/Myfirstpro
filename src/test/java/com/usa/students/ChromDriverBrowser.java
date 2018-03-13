@@ -12,6 +12,4 @@ public class ChromDriverBrowser {
 		driver.get("https://www.sony.com/");
 		driver.manage().window().maximize(); 
 
-	}
-
-}
+	}}
